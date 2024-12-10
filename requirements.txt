@@ -1,0 +1,9 @@
+#Core dependencies
+pandas>=1.5.0
+folium>=0.14.0
+branca>=0.6.0 
+jinja2>=3.0.0
+
+#Optional dependencies
+tk>=0.1.0
+webbrowser
