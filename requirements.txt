@@ -1,9 +1,11 @@
-#Core dependencies
-pandas>=1.5.0
-folium>=0.14.0
-branca>=0.6.0 
-jinja2>=3.0.0
+#Core packages
+pandas==1.5.3
+folium==0.14.0
+branca==0.6.0
+Jinja2==3.1.2
 
-#Optional dependencies
-tk>=0.1.0
-webbrowser
+# Note: tkinter is usually included with Python installation
+# If tkinter is missing on Linux, install it using:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# CentOS: sudo yum install python3-tkinter
