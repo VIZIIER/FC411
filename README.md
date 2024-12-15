@@ -159,10 +159,6 @@ The input CSV file should contain the following columns:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Important Note
-
-This tool is for educational and research purposes only. Always ensure you have proper authorization before conducting wireless network analysis in any area.
-
 ## Note
 
-This tool is for educational purposes only. Ensure you have permission to analyze wireless networks in your area.
+This tool is for educational and research purposes only. Always ensure you have proper authorization before conducting wireless network analysis in any area.
