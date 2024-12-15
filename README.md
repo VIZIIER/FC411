@@ -32,8 +32,8 @@ A Python-based wireless network analysis tool that processes wireless capture da
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd FC411-Network-Analyzer
+git clone https://github.com/VIZIIER/FC411.git
+cd FC411
 ```
 
 2. Install required packages:
